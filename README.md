@@ -13,6 +13,11 @@ This repository contains various image processing scripts using OpenCV, covering
 │   ├── 3.jpg
 │   ├── 4.jpg
 │   ├── 5.jpg
+│   ├── color_detection_output.jpg
+│   ├── image_pyramid_output.jpg
+│   ├── smoothing_output.jpg
+│   ├── edge_detection_output.jpg
+│   ├── face_detection_output.jpg
 ├── color_detection.py     # Detects a specific color in an image
 ├── image_pyramid.py       # Generates an image pyramid
 ├── image_smoothing.py     # Applies Gaussian & Median blur
